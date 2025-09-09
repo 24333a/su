@@ -1,0 +1,1 @@
+6.6.66-android15-8-g4dc61d72e02f-abogki415959920-4k #1 SMP PREEMPT Mon May 12 09:09:59 UTC 2025 aarch64 Toybox
